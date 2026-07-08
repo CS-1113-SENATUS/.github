@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="440" viewBox="0 0 440 440">
+  <!-- background -->
+  <rect x="0" y="0" width="440" height="440" fill="#6e1c26"/>
+
+  <!-- outer border -->
+  <rect x="22" y="22" width="396" height="396"
+        fill="none" stroke="#c9a13c" stroke-width="3"/>
+
+  <!-- inner border -->
+  <rect x="38" y="38" width="364" height="364"
+        fill="none" stroke="#c9a13c" stroke-width="2"/>
+
+  <!-- "CS" -->
+  <text x="220" y="158" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="34" letter-spacing="10"
+        font-weight="700" fill="#c9a13c">CS</text>
+
+  <!-- divider above MXCIII -->
+  <line x1="150" y1="182" x2="290" y2="182" stroke="#c9a13c" stroke-width="2"/>
+
+  <!-- "MXCIII" -->
+  <text x="220" y="252" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="62" letter-spacing="4"
+        font-weight="700" fill="#c9a13c">MXCIII</text>
+
+  <!-- divider below MXCIII -->
+  <line x1="150" y1="274" x2="290" y2="274" stroke="#c9a13c" stroke-width="2"/>
+
+  <!-- "SENATVS" -->
+  <text x="220" y="306" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="20" letter-spacing="6"
+        font-weight="700" fill="#c9a13c">SENATVS</text>
+</svg>
