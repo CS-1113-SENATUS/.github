@@ -28,6 +28,7 @@ comprehensions. Labs, homework, and quizzes build cumulatively—later material 
 
 - **Prof. Sebastián Romero Cruz**
 - **Prof. Novick**
+- **Prof. O'Rourke**
 - Course Assistants (CAs): schedules and internal ops are managed privately; reach out via EdStem or Slack if you're a current student.
 
 ---
