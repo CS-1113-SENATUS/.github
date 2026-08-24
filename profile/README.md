@@ -24,13 +24,13 @@ comprehensions. Labs, homework, and quizzes build cumulatively—later material 
 - **Course Community**: course discussion, Q&A, and announcements now run through our own Course Community platform (link posted in Brightspace); it replaces EdStem.
 - **Slack**: [Join the CS 1113 workspace](https://join.slack.com/t/cs1113/shared_invite/zt-3c77oznif-gG3M2ZSDiLZmUUQbq8vxkw)
 
-## Team Training & Meetings
+## Senate Meeting Recordings and Materiel
 
-Recordings, slides, and minutes for CA training sessions and weekly team meetings. Full minutes archive: [`admin/meeting-minutes/notes`](https://github.com/sebastianromerocruz/CS1113-Team/tree/main/admin/meeting-minutes/notes).
+Recordings, materiel, and minutes for CA training sessions and weekly senate meetings. Full minutes archive: [`admin/meeting-minutes/notes`](https://github.com/sebastianromerocruz/CS1113-Team/tree/main/admin/meeting-minutes/notes).
 
 | Session | Video | Material | Minutes |
-|---------|-------|--------|---------|
-| Training 1 — Intros, Operations, Policy & Safety (08/23/26) | [Recording](https://nyu.zoom.us/rec/share/Re1CoeTf0FU8tq9eMIJ8SuXogKmoP1qgM1mieB-AIE_UmxkOd05zKdvI_746ugKM.AOFoi_rpERvg_Z96) | [Slides](https://docs.google.com/presentation/d/1XKdmdpcu5uzfpSatHyFtgsS-LEeWQ82vpItO-dVACas/edit?usp=sharing) | [Minutes](https://github.com/sebastianromerocruz/CS1113-Team/blob/main/admin/meeting-minutes/notes/2026-08-23-training-1.md) |
+|:---------:|:-------:|:--------:|:---------:|
+| **Training 1**: Intros, Operations, Policy & Safety (08/23/26) | [**Recording**](https://nyu.zoom.us/rec/share/Re1CoeTf0FU8tq9eMIJ8SuXogKmoP1qgM1mieB-AIE_UmxkOd05zKdvI_746ugKM.AOFoi_rpERvg_Z96) | [**Slides**](https://docs.google.com/presentation/d/1XKdmdpcu5uzfpSatHyFtgsS-LEeWQ82vpItO-dVACas/edit?usp=sharing) | [**Minutes**](https://github.com/sebastianromerocruz/CS1113-Team/blob/main/admin/meeting-minutes/notes/2026-08-23-training-1.md) |
 
 ## Instructional team
 
