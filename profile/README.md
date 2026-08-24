@@ -30,7 +30,7 @@ Recordings, materiel, and minutes for CA training sessions and weekly senate mee
 
 | Session | Video | Material | Minutes |
 |:---------:|:-------:|:--------:|:---------:|
-| **Training 1**: Intros, Operations, Policy & Safety (08/23/26) | [**Recording**](https://nyu.zoom.us/rec/share/Re1CoeTf0FU8tq9eMIJ8SuXogKmoP1qgM1mieB-AIE_UmxkOd05zKdvI_746ugKM.AOFoi_rpERvg_Z96) | [**Slides**](https://docs.google.com/presentation/d/1XKdmdpcu5uzfpSatHyFtgsS-LEeWQ82vpItO-dVACas/edit?usp=sharing) | [**Minutes**](profile/assets/meeting-minutes/notes/2026-08-23-training-1.md) |
+| **Training 1**: Intros, Operations, Policy & Safety (08/23/26) | [**Recording**](https://nyu.zoom.us/rec/share/Re1CoeTf0FU8tq9eMIJ8SuXogKmoP1qgM1mieB-AIE_UmxkOd05zKdvI_746ugKM.AOFoi_rpERvg_Z96) | [**Slides**](https://docs.google.com/presentation/d/1XKdmdpcu5uzfpSatHyFtgsS-LEeWQ82vpItO-dVACas/edit?usp=sharing) | [**Minutes**](https://github.com/CS-1113-SENATUS/.github/blob/main/profile/assets/meeting-minutes/notes/2026-08-23-training-1.md) |
 
 ## Instructional team
 
