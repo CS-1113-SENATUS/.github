@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    width: 1170px;
+    height: 230px;
+    background: #F7F7F4;
+    overflow: hidden;
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+  }
+  .banner {
+    position: relative;
+    width: 1170px;
+    height: 230px;
+  }
+  /* left spine */
+  .spine {
+    position: absolute;
+    left: 56px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #C1272D;
+  }
+  /* big numeral mark */
+  .numeral {
+    position: absolute;
+    right: 48px;
+    top: 22px;
+    font-family: "SF Mono", "Courier New", monospace;
+    font-variant-numeric: tabular-nums;
+    font-size: 100px;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    color: #C1272D;
+    line-height: 1;
+  }
+  /* hairline rule under numeral */
+  .rule {
+    position: absolute;
+    right: 48px;
+    top: 128px;
+    width: 250px;
+    height: 1.5px;
+    background: #171715;
+  }
+  /* course code + semester tag, bottom-right */
+  .tag {
+    position: absolute;
+    right: 48px;
+    top: 136px;
+    font-family: "SF Mono", "Courier New", monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    color: #6E6E68;
+    text-transform: uppercase;
+  }
+  .tag .dot { color: #C1272D; }
+</style>
+</head>
+<body>
+  <div class="banner">
+    <div class="spine"></div>
+    <div class="numeral">1113</div>
+    <div class="rule"></div>
+    <div class="tag">CS<span class="dot">&middot;</span>UY<span class="dot">&middot;</span>1113<span class="dot">&middot;</span>FALL 2026</div>
+  </div>
+</body>
+</html>
