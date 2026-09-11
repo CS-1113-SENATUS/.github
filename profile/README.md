@@ -23,7 +23,7 @@ CAs: start here. Everything below lives in the [**Course-Material**](https://git
 | Review sessions / mock exams | [Reviews](https://github.com/CS-1113-SENATUS/Course-Material#5) |
 | Meeting recordings & minutes | [see below](#senate-meeting-recordings-and-materiel) |
 | Who's teaching / who's my co-CA | [see below](#instructional-team) |
-| Course Q&A, announcements | Syllo (link posted in Brightspace) |
+| Course Q&A, announcements | Keenly (link posted in Brightspace) |
 | Team chat | [Slack](https://join.slack.com/t/cs1113/shared_invite/zt-3c77oznif-gG3M2ZSDiLZmUUQbq8vxkw) |
 
 ## Repositories
@@ -51,7 +51,7 @@ Recordings, materiel, and minutes for CA training sessions and weekly senate mee
 - **Prof. Novick**
 - **Prof. O'Rourke**
 - Course Assistants (CAs):
-  - **Lab 1**: Salvador Baray, Maria Fraguas
+  - **Lab 1**: Salvador Baray
   - **Lab 2**: Wesley Zhuang, Vincy Chen
   - **Lab 3**: Mandy Wang, Maryam Alali
   - **Lab 4**: Ian Fiterman, Summer Thym
