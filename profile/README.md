@@ -44,6 +44,7 @@ Recordings, materiel, and minutes for CA training sessions and weekly senate mee
 | **Training 1**: Intros, Operations, Policy & Safety (08/23/26) | [**Recording**](https://nyu.zoom.us/rec/share/Re1CoeTf0FU8tq9eMIJ8SuXogKmoP1qgM1mieB-AIE_UmxkOd05zKdvI_746ugKM.AOFoi_rpERvg_Z96) | [**Slides**](https://docs.google.com/presentation/d/1XKdmdpcu5uzfpSatHyFtgsS-LEeWQ82vpItO-dVACas/edit?usp=sharing) | [**Minutes**](https://github.com/CS-1113-SENATUS/.github/blob/main/profile/assets/meeting-minutes/notes/2026-08-23-training-1.md) |
 | **Training 2**: Syllo Demo (08/29/26) | [**Recording**](https://nyu.zoom.us/rec/share/lQ2CjhZ9qIWy4-vGt-GwKrLBPn5yVDlYVaQajrmoZrekiU-f58bKWvqHlVpMKMRR.z4n8-hxHZ9UCC612) | — | [**Minutes**](https://github.com/CS-1113-SENATUS/.github/blob/main/profile/assets/meeting-minutes/notes/2026-08-29-training-2.md) |
 | **Training 3**: Student-Facing Scenarios & App in Practice (09/01/26) | [**Recording**](https://nyu.zoom.us/rec/share/qMJOFdCmgexqw-sll2C34zB0M5h1QrxR-ihge5wzqYhTrXdCXZIWYpw9XGYJI51d.JoFOCXry4HFDMzPA) | — | [**Minutes**](https://github.com/CS-1113-SENATUS/.github/blob/main/profile/assets/meeting-minutes/notes/2026-09-01-training-3.md) |
+| **Senate Meeting**: Lecture recap, RAG Race for Friday's lab, billing (09/15/26) | [**Recording**](https://nyu.zoom.us/rec/share/tjA8MOe2Lq024RNMwBazJeXU9vmNXQYcFakOrqUowreK70LI12GAw5tSyFJk8ef5.b8daSg5m2ykUlyyQ) | — | [**Minutes**](https://github.com/CS-1113-SENATUS/.github/blob/main/profile/assets/meeting-minutes/notes/2026-09-15-senate-meeting.md) |
 
 ## Instructional team
 
